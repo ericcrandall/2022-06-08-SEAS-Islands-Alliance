@@ -7,9 +7,9 @@ language: English
 latitude: '40.798214'
 longitude: '-77.859909'
 humandate: June 8-10, 2022
-humantime: 9 AM - 12 PM on 6/8, 9 AM to 5 PM on 6/9 and 6/10
-startdate: '2022-06-08'
-enddate: '2022-06-10'
+humantime: 9 AM - 12 PM on 6/7, 9 AM to 5 PM on 6/8 and 6/9
+startdate: '2022-06-07'
+enddate: '2022-06-08'
 instructor: Eric Crandall
 helper: Naomi Huntley, Colin Howe
 email: ecrandall@psu.edu
